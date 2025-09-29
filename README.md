@@ -38,7 +38,7 @@ For questions about the code or analysis:
 - Jamie-Lee Thompson: j.thompson@victorchang.edu.au
 
 For questions about the study or data access:
-- David Winlaw: dwinlaw@luriechildrens.org
+- David Winlaw: david.winlaw@northwestern.edu
 - Eleni Giannoulatou: e.giannoulatou@victorchang.edu.au
 
 ## Acknowledgments
