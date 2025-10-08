@@ -22,7 +22,6 @@ This repository contains the computational analysis code for our multi-omic stud
 ### DNA Methylation Analysis
 - **`denovo_methylation_sites.r`** - Identifies de novo methylation changes in trios using effect-size criteria (Δβ > 0.2 from both parents)
 - **`epigenetic_age_analysis.r`** - Calculates epigenetic age using Hannum clock and identifies age acceleration
-- **`inheritance_analysis.r`** - Analyzes parent-of-origin methylation inheritance patterns in trios
 - **`methylation_pathway_analysis.r`** - Collapses CpG sites into differentially methylated regions (DMRs) and performs GO enrichment analysis
 
 ### Genetic Variant Analysis
