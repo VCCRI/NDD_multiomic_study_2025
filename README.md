@@ -29,10 +29,6 @@ This repository contains the computational analysis code for our multi-omic stud
 - **`mae_analysis.sh`** - Monoallelic expression (MAE) analysis pipeline for identifying parent-of-origin expression bias
 - **`prs_pipeline_pgs-calc.sh`** - Calculates polygenic risk scores for neurodevelopmental and psychiatric traits using pgsc_calc
 
-## Usage
-
-Each script contains usage examples in comments. Input file formats and parameters are documented within each file.
-
 ## Citation
 
 If you use this code, please cite:
