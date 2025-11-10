@@ -15,12 +15,12 @@ This repository contains the computational analysis code for our multi-omic stud
 - **Key findings**:
   - 64% diagnostic yield from genetic variants
   - Dramatic epigenetic age acceleration in CHD patients (~17 years)
-  - Extreme methylation dysregulation in specific patients
+  - Methylation dysregulation in specific patients
 
 ## Analysis Scripts
 
 ### DNA Methylation Analysis
-- **`denovo_methylation_sites.r`** - Identifies de novo methylation changes in trios using effect-size criteria (Δβ > 0.2 from both parents)
+- **`dmr_analysis.r`** - Identifies differentially methylated probes in study probands compared to control samples from GEO
 - **`epigenetic_age_analysis.r`** - Calculates epigenetic age using Hannum clock and identifies age acceleration
 - **`methylation_pathway_analysis.r`** - Collapses CpG sites into differentially methylated regions (DMRs) and performs GO enrichment analysis
 
@@ -66,5 +66,5 @@ For questions about the study or data access:
 ## Acknowledgments
 
 - Victor Chang Cardiac Research Institute
-- - Cincinnati Children's Hospital Medical Center
+- Cincinnati Children's Hospital Medical Center
 - The families who participated in this study
