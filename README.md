@@ -11,10 +11,10 @@ This repository contains the computational analysis code for our multi-omic stud
 - **Data types**: 
   - Whole genome sequencing (WGS)
   - RNA sequencing (subset of 10 trios)
-  - DNA methylation arrays (all 15 families)
+  - DNA methylation arrays (15 trios)
 - **Key findings**:
-  - 64% diagnostic yield from genetic variants
-  - Dramatic epigenetic age acceleration in CHD patients (~17 years)
+  - 57% P/LP detection rate from genetic variants
+  - Epigenetic age acceleration in CHD patients
   - Methylation dysregulation in specific patients
 
 ## Analysis Scripts
@@ -25,8 +25,7 @@ This repository contains the computational analysis code for our multi-omic stud
 - **`methylation_pathway_analysis.r`** - Collapses CpG sites into differentially methylated regions (DMRs) and performs GO enrichment analysis
 
 ### Genetic Variant Analysis
-- **`splicing_validation.py`** - Validates splice-affecting variants using RNA-seq junction analysis with inheritance awareness
-- **`mae_analysis.sh`** - Monoallelic expression (MAE) analysis pipeline for identifying parent-of-origin expression bias
+- **`mae_analysis.sh`** - Monoallelic expression analysis pipeline for identifying parent-of-origin expression bias
 - **`prs_pipeline_pgs-calc.sh`** - Calculates polygenic risk scores for neurodevelopmental and psychiatric traits using pgsc_calc
 
 ## Citation
