@@ -1,9 +1,9 @@
-# Multi-omic analysis achieves high diagnostic yield and identifies accelerated biological aging in paediatric congenital heart disease and neurodevelopmental disorders
+# Multiomic investigation of shared genetic pathways in paediatric congenital heart disease and neurodevelopmental disorders
 
 
 ## Overview
 
-This repository contains the computational analysis code for our multi-omic study investigating the genetic and epigenetic factors contributing to the co-occurrence of neurodevelopmental disorders (NDD) and congenital heart disease (CHD).
+This repository contains the computational analysis code for our multiomic study investigating the genetic and epigenetic factors contributing to the co-occurrence of neurodevelopmental disorders (NDD) and congenital heart disease (CHD).
 
 ## Study Design
 
@@ -32,7 +32,7 @@ This repository contains the computational analysis code for our multi-omic stud
 
 If you use this code, please cite:
 
-Thompson JM, Gao Y, Iwasawa E, et al. Multi-omic analysis achieves high diagnostic yield and identifies accelerated biological aging in paediatric congenital heart disease and neurodevelopmental disorders. [Journal] 2025; [details to be added upon publication]
+Thompson, J. M., Gao, Y., Iwasawa, E., Das, D., Rath, E., Troup, M., Humphreys, D., Heydarian, H., Anixt, J., Kasparian, N. A., Froehlich, T. E., Tchieu, J., Weaver, K. N., Congenital Heart Disease Synergy Study Group, Kirk, E. P., Dale, R., Dunwoodie, S. L., Winlaw, D. S., & Giannoulatou, E Multiomic Investigation of Shared Genetic Pathways in Paediatric Congenital Heart Disease and Neurodevelopmental Disorders. Human Mutation, 2026; [details to be added upon publication]
 
 ## License
 
