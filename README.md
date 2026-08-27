@@ -32,7 +32,7 @@ This repository contains the computational analysis code for our multiomic study
 
 If you use this code, please cite:
 
-Thompson, J. M., Gao, Y., Iwasawa, E., Das, D., Rath, E., Troup, M., Humphreys, D., Heydarian, H., Anixt, J., Kasparian, N. A., Froehlich, T. E., Tchieu, J., Weaver, K. N., Congenital Heart Disease Synergy Study Group, Kirk, E. P., Dale, R., Dunwoodie, S. L., Winlaw, D. S., & Giannoulatou, E Multiomic Investigation of Shared Genetic Pathways in Paediatric Congenital Heart Disease and Neurodevelopmental Disorders. Human Mutation, 2026; [details to be added upon publication]
+Thompson, J. M., Gao, Y., Iwasawa, E., Das, D., Rath, E., Troup, M., Humphreys, D. T., Heydarian, H., Anixt, J., Kasparian, N. A., Froehlich, T. E., Tchieu, J., Weaver, K. N., Congenital Heart Disease Synergy Study Group, Kirk, E. P., Dale, R., Dunwoodie, S. L., Winlaw, D. S., & Giannoulatou, E. (2026). Multiomic investigation of shared genetic pathways in paediatric congenital heart disease and neurodevelopmental disorders. Human Mutation, 2026, 7869246. https://doi.org/10.1155/humu/7869246
 
 ## License
 
